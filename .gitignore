@@ -14,3 +14,6 @@ models/
 
 # Other
 *.log
+
+# Environment Variables
+.env
